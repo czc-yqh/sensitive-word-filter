@@ -1,5 +1,5 @@
 
-# sensitive-word-filter
+# sensitive-word-filter2
 [![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads][downloads-image]][downloads-url]
